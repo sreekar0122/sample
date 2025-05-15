@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+
+<listeners>
+  
+  <listener class-name="TestNGExample.TestNGListner_ItestExample"/>  
+  <listener class-name="RetryExample.TestNGTransform"/>  
+  
+  </listeners>
+
+
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNGExample.AmazonTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-09T17:58:11 IST" name="Suite" finished-at="2025-05-09T17:58:33 IST" duration-ms="22444">
+    <groups>
+    </groups>
+    <test started-at="2025-05-09T17:58:11 IST" name="Test" finished-at="2025-05-09T17:58:33 IST" duration-ms="22444">
+      <class name="gridExample.HRMLoginTest">
+        <test-method is-config="true" signature="launchApp(java.lang.String)[pri:0, instance:gridExample.HRMLoginTest@5db45159]" started-at="2025-05-09T17:58:11 IST" name="launchApp" finished-at="2025-05-09T17:58:22 IST" duration-ms="10805" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verifyLogin()[pri:0, instance:gridExample.HRMLoginTest@5db45159]" started-at="2025-05-09T17:58:22 IST" name="verifyLogin" finished-at="2025-05-09T17:58:23 IST" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:gridExample.HRMLoginTest@5db45159]" started-at="2025-05-09T17:58:23 IST" name="closeApp" finished-at="2025-05-09T17:58:33 IST" duration-ms="10194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- gridExample.HRMLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

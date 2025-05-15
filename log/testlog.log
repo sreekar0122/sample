@@ -1,0 +1,42 @@
+2025-05-05 12:43:53,806 - HRM Application -INFO - ============info============
+2025-05-05 12:43:53,810 - HRM Application -WARN - ============warn============
+2025-05-05 12:43:53,810 - HRM Application -ERROR - ============error============
+2025-05-05 12:43:53,811 - HRM Application -INFO - ========launchApp==========
+2025-05-05 12:44:04,764 - HRM Application -INFO - application URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:44:13,220 - HRM Application -INFO - enter username: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:44:13,358 - HRM Application -INFO - enter pass: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:44:13,532 - HRM Application -INFO - Click on Login button
+2025-05-05 12:44:16,644 - HRM Application -INFO - Application title, after login sucessful:OrangeHRM
+2025-05-05 12:44:16,658 - HRM Application -INFO - Application URL, after login sucessful:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:44:19,669 - HRM Application -INFO - Click on user dropdown button
+2025-05-05 12:44:26,751 - HRM Application -INFO - ========closeApp==========
+2025-05-05 12:46:17,602 - HRM Application -INFO - ============info============
+2025-05-05 12:46:17,608 - HRM Application -WARN - ============warn============
+2025-05-05 12:46:17,609 - HRM Application -ERROR - ============error============
+2025-05-05 12:46:17,609 - HRM Application -INFO - ========launchApp==========
+2025-05-05 12:46:21,793 - HRM Application -INFO - application URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:46:30,389 - HRM Application -INFO - enter username: Admin
+2025-05-05 12:46:30,586 - HRM Application -INFO - enter pass: admin123
+2025-05-05 12:46:30,765 - HRM Application -INFO - Click on Login button
+2025-05-05 12:46:34,074 - HRM Application -INFO - Application title, after login sucessful:OrangeHRM
+2025-05-05 12:46:34,292 - HRM Application -INFO - Application URL, after login sucessful:https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2025-05-05 12:46:37,296 - HRM Application -INFO - Click on user dropdown button
+2025-05-05 12:46:40,545 - HRM Application -INFO - Click on Logout button
+2025-05-05 12:46:44,486 - HRM Application -INFO - Application title, after logout sucessful:OrangeHRM
+2025-05-05 12:46:44,491 - HRM Application -INFO - Application URL, after logout sucessful:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:46:51,502 - HRM Application -INFO - ========closeApp==========
+2025-05-05 12:55:49,046 - HRM Application -INFO - ============info============
+2025-05-05 12:55:49,052 - HRM Application -WARN - ============warn============
+2025-05-05 12:55:49,052 - HRM Application -ERROR - ============error============
+2025-05-05 12:55:49,053 - HRM Application -INFO - ========launchApp==========
+2025-05-05 12:55:53,269 - HRM Application -INFO - application URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:56:02,215 - HRM Application -INFO - enter username: Admin
+2025-05-05 12:56:02,491 - HRM Application -INFO - enter pass: admin123
+2025-05-05 12:56:02,642 - HRM Application -INFO - Click on Login button
+2025-05-05 12:56:05,806 - HRM Application -INFO - Application title, after login sucessful:OrangeHRM
+2025-05-05 12:56:05,833 - HRM Application -INFO - Application URL, after login sucessful:https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+2025-05-05 12:56:08,844 - HRM Application -INFO - Click on user dropdown button
+2025-05-05 12:56:12,016 - HRM Application -INFO - Click on Logout button
+2025-05-05 12:56:16,953 - HRM Application -INFO - Application title, after logout sucessful:OrangeHRM
+2025-05-05 12:56:16,963 - HRM Application -INFO - Application URL, after logout sucessful:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-05 12:56:23,980 - HRM Application -INFO - ========closeApp==========
